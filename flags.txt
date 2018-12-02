@@ -1,0 +1,1 @@
+{"flag": "flag{21573db0-eb5f-49b6-90be-b605baf33422}", "port": 10000, "filename": "sendflag"}
